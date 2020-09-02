@@ -1,0 +1,38 @@
+h1 {
+text-align: center;
+font-size: 56px;
+    color: blue
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+h1{
+    background-color: red;
+  }
+  li{
+    color: rgb(66, 8, 27);
+    font-size: 36px;
+    
+  }
+  body{background-color: bisque;}
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  h2{  color: rgb(25, 92, 112);
+    background-color:rgba(65, 23, 23, 0.246);
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 20px;
+    font-family: 'Anton', sans-serif;}
+
+  h3{    color: rgb(25, 92, 112);
+    background-color:rgba(65, 23, 23, 0.246);
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 20px;
+    
+    font-family: 'Anton', sans-serif;}
+    
